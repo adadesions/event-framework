@@ -1,3 +1,5 @@
 {
-  "com.adadesions.event-framework": "https://github.com/adadesions/event-framework.git?path=Packages/com.adadesions.event-framework"
+  "dependencies": {
+    "com.adadesions.event-framework": "https://github.com/adadesions/event-framework.git?path=Packages/com.adadesions.event-framework"
+  }
 } 
