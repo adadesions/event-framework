@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "com.adadesions.event-framework": "https://github.com/adadesions/event-framework.git?path=Packages/com.adadesions.event-framework"
+    "com.adadesions.event-framework": "https://github.com/adadesions/event-framework.git#main"
   }
 } 
