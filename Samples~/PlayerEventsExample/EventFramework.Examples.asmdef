@@ -1,0 +1,16 @@
+{
+    "name": "EventFramework.Examples",
+    "rootNamespace": "EventFramework.Examples",
+    "references": [
+        "EventFramework"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+} 

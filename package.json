@@ -1,0 +1,32 @@
+{
+    "name": "com.adadesions.event-framework",
+    "version": "1.0.0",
+    "displayName": "AdaBrain Event Framework",
+    "description": "A reusable, thread-safe event system for Unity using pub/sub and code extensibility.",
+    "unity": "2022.3",
+    "dependencies": {},
+    "keywords": [
+        "event",
+        "framework",
+        "pub/sub",
+        "messaging"
+    ],
+    "author": {
+        "name": "AdaDeSions",
+        "email": "ada@adabrain.studio"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adadesions/event-framework.git"
+    },
+    "license": "MIT",
+    "changelogUrl": "https://github.com/adadesions/event-framework/blob/main/CHANGELOG.md",
+    "documentationUrl": "https://github.com/adadesions/event-framework/wiki",
+    "samples": [
+        {
+            "displayName": "Player Events Example",
+            "description": "Example of using the EventFramework with player events",
+            "path": "Samples~/PlayerEventsExample"
+        }
+    ]
+}
